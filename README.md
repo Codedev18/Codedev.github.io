@@ -4,7 +4,7 @@ Welcome to my Creative Portfolio! This is a simple and responsive one-page portf
 
 ## Live Demo
 
-👉 [View Live on GitHub Pages](https://codewhizzz.github.io)  
+👉 [View Live on GitHub Pages](https://codedev.github.io)  
 
 ---
 
